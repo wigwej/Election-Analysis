@@ -25,7 +25,7 @@ Arapahoe: 6.71%
 
   ***Number of winning votes***: 272,892
 
-  ***percentage of total votes***:73.8%
+  ***Percentage of total votes***:73.8%
 
 **Proposal of how script can be used**
 
