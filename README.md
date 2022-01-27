@@ -27,7 +27,7 @@ Arapahoe: 6.71%
 
   ***percentage of total votes***:73.8%
 
-**Proposal of how script can be used
+**Proposal of how script can be used**
 
 Our goal is to ensure the system we have set up is automated. The benefits of an automated script is to speed up the counting process. It reduces the cost of paying staff and ensures that election results are published faster. Our script is of great value if there is a need to recount votes which could be a redult of discrepanies in votes per candidate per county.
 
